@@ -1,1 +1,0 @@
-# Java-Program to find whether the character is alphabet digit or sybol,if it is upper case then change into lower case and print it,if it lower case convert into uppercase and print it.if it is digit check it is even or odd,if it is even print its last digit else print the number.If it is Symbol check its second last disit is divisible by 3 or not.
